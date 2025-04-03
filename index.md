@@ -2,6 +2,11 @@
 <html>
 <head>
     <title>MS Thesis Poster</title>
+    <style>
+        .site-footer, .footer {
+            display: none !important;
+        }
+    </style>
 </head>
 <body>
     <h1>MS Thesis Poster</h1>
