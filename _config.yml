@@ -1,0 +1,7 @@
+name: Rajesh Potlia
+markdown: kramdown
+theme: minima
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
